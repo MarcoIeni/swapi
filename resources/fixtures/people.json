@@ -1392,5 +1392,22 @@
     },
     "model": "resources.people",
     "pk": 83
+},
+{
+    "fields": {
+        "edited": "2022-07-09T00:00:00.000Z",
+        "name": "Yaddle",
+        "created": "2022-07-09T00:00:00.000Z",
+        "gender": "female",
+        "skin_color": "green",
+        "hair_color": "auburn",
+        "height": "61",
+        "eye_color": "green-gold",
+        "mass": "unknown",
+        "homeworld": 28,
+        "birth_year": "509BBY"
+    },
+    "model": "resources.people",
+    "pk": 84
 }
 ]
