@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - docker-actions
 
 jobs:
   build-and-push:
