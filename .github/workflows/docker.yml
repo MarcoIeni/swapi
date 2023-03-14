@@ -27,7 +27,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: marcoieni/swapi
+          images: ghcr.io/${{ github.repository }}
           tags: |
             type=raw,value=latest
 
